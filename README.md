@@ -1,0 +1,2 @@
+# Crimson-Echo
+Blackjack AI
